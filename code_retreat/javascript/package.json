@@ -1,0 +1,22 @@
+{
+  "name": "js-game-of-life",
+  "version": "0.0.1",
+  "description": "Building Game of Life with JS and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://stash.gfk.com/scm/~vrsaue/datatracking.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Maksim Sakuta",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
